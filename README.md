@@ -29,5 +29,5 @@ Colab Live code: https://drive.google.com/file/d/1NsSS1_M3pNAbkiBnPB3k5JKIkEQg3X
 ### After Fine-tuning:</br>
 <img src="https://github.com/yuki-2025/llama3-8b-fine-tuning-math/assets/159591455/e331d367-d441-4f14-94eb-62bfe1e863e0" alt="Untitled design" width="600" height="400"></br></br>
 
-This part of the research study in The University of Chicago. The data is come from:
+This is part of the research exercise in The University of Chicago. The data is come from:
 https://github.com/rohanbalkondekar/finetune_llama2

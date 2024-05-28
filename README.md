@@ -1,6 +1,6 @@
 # Fine-tuning Llama3 8b for Math
 
-fine-tuning Llama3 8b to generate JSON formats for arithmetic questions and process the output to perform calculations. 
+This project involves fine-tuning Llama3 8b to generate JSON formats for arithmetic questions and further post-process the output to perform calculations.
 This method incorporates the latest fine-tuning techniques such as Qlora, Unsloth, and PEFT. 
 It enables faster training speeds and requires fewer computational resources.
 
